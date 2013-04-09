@@ -1,0 +1,6 @@
+(require	(lib "eopl.ss" "eopl"))
+(load "REP.ss") 
+(load "env.ss") 
+(load "parseC.ss") 
+(load "interpC.ss") 
+(read-eval-print) 

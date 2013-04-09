@@ -1,0 +1,5 @@
+(load "REP.ss") 
+(load "env.ss") 
+(load "parseA.ss") 
+(load "interpA.ss") 
+(read-eval-print) 
